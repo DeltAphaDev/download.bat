@@ -3,7 +3,7 @@ cls & Mode 70,3 & color 0A
 Title File in downloading ...
 Set "Copyright=(C) by DeltAlphaDev 2022"
 Set "Downloader=%Temp%\Hackoo_Downloader.vbs"
-Set "URL=https://github.com/CTPBenchmark/Cosmos/archive/refs/heads/master.zip"
+Set "URL=https://github.com/DeltAphaDev/download.bat/releases/download/downloads/ABCD.bat"
 
 echo(
 echo       Please wait ... Downloading the file is in progress ...
